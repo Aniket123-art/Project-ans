@@ -1,0 +1,25 @@
+<html>
+    <div class="form">
+<form><center>
+    <link rel="stylesheet" href="styleF.css">
+    <body bgcolor="lavender">
+    <h1>login page</h1>
+    <span style='font: size 10px;'>&#129535;</span>
+Name:<input type="text"name="name"placeholder="name">
+<br>
+<br>
+<span style='font: size 10px;'>&#129535;</span>
+Password:<input type="password"name="password"placeholder="password">
+<br>
+<br>
+<span style='font: size 10px;'>&#129535;</span>
+Email:<input type="email"name="email"placeholder="email">
+<br>
+<br>
+<p><span>&#128373;</span>
+<input type="button" onclick="alert('sucessfull Submited!')" value="submited">
+    </div></form>
+    </div>
+</center> 
+</body>
+</html>
